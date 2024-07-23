@@ -1,4 +1,4 @@
-The following skills and Technologies were used and learned:
+The following skills and Technologies were used and learned (more comming soon)
 
 - GCP Services:
   . Google Cloud Storage
