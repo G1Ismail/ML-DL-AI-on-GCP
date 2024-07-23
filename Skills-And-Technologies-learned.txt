@@ -1,0 +1,15 @@
+The following skills and Technologies were used and learned:
+
+- GCP Services:
+  . Google Cloud Storage
+  . Google Cloud BigQuery and BigQuery ML
+  . Google Cloud PubSub
+  . Google Cloud DataProc
+  . Google Cloud VertexAI and AutoML in VertexAI
+  . Google Cloud Vision API
+  . Google Cloud Looker and Looker Studio
+  . Google Cloud CLI: gcloud ...
+
+- Tensorflow and Tensorflow-Framework: Keras
+- Python
+
